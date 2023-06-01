@@ -1,0 +1,14 @@
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.csproj.AssemblyReference.cache
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.AssemblyInfoInputs.cache
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.AssemblyInfo.cs
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.csproj.CoreCompileInputs.cache
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\bin\Debug\netcoreapp3.1\CeUAA11_2023_Andras.exe
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\bin\Debug\netcoreapp3.1\CeUAA11_2023_Andras.deps.json
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\bin\Debug\netcoreapp3.1\CeUAA11_2023_Andras.runtimeconfig.json
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\bin\Debug\netcoreapp3.1\CeUAA11_2023_Andras.runtimeconfig.dev.json
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\bin\Debug\netcoreapp3.1\CeUAA11_2023_Andras.dll
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\bin\Debug\netcoreapp3.1\CeUAA11_2023_Andras.pdb
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.dll
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.pdb
+C:\Users\220672\Desktop\CeUAA11_2023_Andras\CeUAA11_2023_Andras\obj\Debug\netcoreapp3.1\CeUAA11_2023_Andras.genruntimeconfig.cache
